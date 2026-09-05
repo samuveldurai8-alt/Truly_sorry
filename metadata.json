@@ -1,0 +1,6 @@
+{
+  "name": "A Letter for You",
+  "description": "A soft, peaceful, and sincere apology and expression of gratitude.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
